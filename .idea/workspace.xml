@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a760f52d-a220-4247-9bed-630efa710339" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cQeCDcztuEAKjviUby7cfgqkI1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../comsol/overshoot" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\python\sfepy\sofc3d" />
+      <recent name="C:\work\python\sfepy\sofc3d\mesh" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.simple">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="sofc3d" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="meshtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sofc3d" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meshtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sofc3d" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sofc_sfepy_data3d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sofc3d" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sofc_sfepy_data3d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.simple" />
+        <item itemvalue="Python.sofc_sfepy_data3d" />
+        <item itemvalue="Python.meshtest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a760f52d-a220-4247-9bed-630efa710339" name="Default Changelist" comment="" />
+      <created>1590465138699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590465138699</updated>
+      <workItem from="1590465165393" duration="32724000" />
+      <workItem from="1590570239305" duration="25022000" />
+      <workItem from="1590760516067" duration="1033000" />
+      <workItem from="1590827323869" duration="1497000" />
+      <workItem from="1590832680935" duration="2709000" />
+      <workItem from="1590840009038" duration="7735000" />
+      <workItem from="1590848642834" duration="4309000" />
+      <workItem from="1590937885969" duration="4237000" />
+      <workItem from="1590985864150" duration="72434000" />
+      <workItem from="1591599223564" duration="15577000" />
+      <workItem from="1591677175557" duration="5483000" />
+      <workItem from="1591693099608" duration="16775000" />
+      <workItem from="1591779069539" duration="311000" />
+      <workItem from="1591779409206" duration="10561000" />
+      <workItem from="1592311638382" duration="595000" />
+      <workItem from="1592618173283" duration="8914000" />
+      <workItem from="1592811538186" duration="4193000" />
+      <workItem from="1593417037605" duration="85000" />
+      <workItem from="1593417518007" duration="409000" />
+      <workItem from="1593871883916" duration="594000" />
+      <workItem from="1595674033439" duration="578000" />
+      <workItem from="1596095772292" duration="2790000" />
+      <workItem from="1596200428108" duration="2060000" />
+      <workItem from="1596287957308" duration="626000" />
+      <workItem from="1596288902370" duration="2529000" />
+      <workItem from="1597647358746" duration="1486000" />
+      <workItem from="1599551200209" duration="154000" />
+      <workItem from="1599562972362" duration="153000" />
+      <workItem from="1599563379943" duration="972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="120" key="#HTTP_Proxy" timestamp="1592813769302">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="273" y="120" key="#HTTP_Proxy/0.0.1440.860@0.0.1440.860" timestamp="1592813769302" />
+    <state x="215" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590839557524">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="215" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1590839557524" />
+    <state x="429" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590466420733">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="429" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1590466420733" />
+    <state x="51" y="217" width="768" height="591" key="#xdebugger.evaluate" timestamp="1591782645076">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="51" y="217" width="768" height="591" key="#xdebugger.evaluate/0.0.1440.860@0.0.1440.860" timestamp="1591782645076" />
+    <state x="209" y="189" key="FileChooserDialogImpl" timestamp="1597652863729">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="209" y="189" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1597652863729" />
+    <state width="1397" height="209" key="GridCell.Tab.0.bottom" timestamp="1593417935214">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="209" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1593417935214" />
+    <state width="1397" height="209" key="GridCell.Tab.0.center" timestamp="1593417935214">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="209" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1593417935214" />
+    <state width="1397" height="209" key="GridCell.Tab.0.left" timestamp="1593417935214">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="209" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1593417935214" />
+    <state width="1397" height="209" key="GridCell.Tab.0.right" timestamp="1593417935214">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="209" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1593417935214" />
+    <state width="1397" height="292" key="GridCell.Tab.1.bottom" timestamp="1591278146237">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="292" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1591278146237" />
+    <state width="1397" height="292" key="GridCell.Tab.1.center" timestamp="1591278146237">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="292" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1591278146237" />
+    <state width="1397" height="292" key="GridCell.Tab.1.left" timestamp="1591278146237">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="292" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1591278146237" />
+    <state width="1397" height="292" key="GridCell.Tab.1.right" timestamp="1591278146237">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="292" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1591278146237" />
+    <state x="182" y="104" key="SettingsEditor" timestamp="1592813957676">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="182" y="104" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1592813957676" />
+    <state width="726" height="430" key="XDebugger.FullValuePopup" timestamp="1591421254803">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="726" height="430" key="XDebugger.FullValuePopup/0.0.1440.860@0.0.1440.860" timestamp="1591421254803" />
+    <state x="107" y="181" key="search.everywhere.popup" timestamp="1590654362761">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="107" y="181" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1590654362761" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Anaconda3/envs/sfepy/Lib/site-packages/sfepy/base/conf.py</url>
+          <line>216</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Anaconda3/envs/sfepy/Lib/site-packages/sfepy/discrete/common/region.py</url>
+          <line>490</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/meshtest.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/poisson_field_dependent_material.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test1d_volume.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test1d_volume.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test1d.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="fsk_1" language="Python" />
+        <watch expression="isk_1" language="Python" />
+        <watch expression="flk_1" language="Python" />
+        <watch expression="ilk_1" language="Python" />
+        <watch expression="fk" language="Python" />
+        <watch expression="ik" language="Python" />
+        <watch expression="ikp1" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sofc3d$meshtest.coverage" NAME="meshtest Coverage Results" MODIFIED="1591248926657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sofc3d$simple.coverage" NAME="simple Coverage Results" MODIFIED="1593417637295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
